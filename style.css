@@ -45,11 +45,6 @@ p{
     text-decoration: #ed9af2;
     font-size: large;
 }
-.contenedor{
-    display: flex;
-   justify-content: right;
-   font-size: large;
-}
 
 #boton2{
     background-color: rgb(90, 234, 217);
