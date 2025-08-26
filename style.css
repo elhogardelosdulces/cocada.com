@@ -1,0 +1,58 @@
+body {
+    background-image: url(img/fondo.jpg);
+    background-size:contain;
+    background-repeat: repeat;
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size:large;
+}
+
+h1{
+    color: #ca04d5;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-size:xx-large;
+}
+h2{
+    color:rgb(220, 13, 175);
+    font-family:cursive;
+    text-align:center;
+    font-size:xx-large;
+}
+#boton1{
+    background-color: rgb(172, 42, 144) ;
+    font-size:large;
+    font-family: 'Times New Roman', Times, serif;
+}
+#boton3{
+    background-color: rgb(166, 93, 144);
+ font-size:large;
+ font-family: 'Times New Roman', Times, serif;
+}
+#boton4{
+    background-color: aqua;
+     font-size:large;
+     font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+   text-align: justify;
+   font-size: large;
+}
+.form{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-decoration: #ed9af2;
+    font-size: large;
+}
+.contenedor{
+    display: flex;
+   justify-content: right;
+   font-size: large;
+}
+
+#boton2{
+    background-color: rgb(90, 234, 217);
+    font-size:large;
+    font-family: 'Times New Roman', Times, serif;
+}
